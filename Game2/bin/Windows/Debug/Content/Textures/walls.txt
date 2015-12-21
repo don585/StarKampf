@@ -1,5 +1,0 @@
-grass.png
-wall.png
-dirt.png
-treeLarge.png
-treeSmall.png

@@ -47,7 +47,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Building.cs" />
     <Compile Include="Fighter.cs" />
     <Compile Include="MovingUnit.cs" />
     <Compile Include="Program.cs" />
